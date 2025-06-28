@@ -1,6 +1,5 @@
 ---
 date: '2025-06-28T22:14:49+02:00'
-draft: true
 title: 'Learning the Hard Way'
 type: 'posts'
 ---

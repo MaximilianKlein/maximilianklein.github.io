@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Maximilian Klein – Engineer, Lead, Story teller'
 theme = "typo"
 
 [taxonomies]
@@ -8,7 +8,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "My Tech Blog"
 
 # Appearance settings
 theme = 'auto'
