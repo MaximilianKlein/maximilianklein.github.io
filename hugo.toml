@@ -1,0 +1,75 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "typo"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Welcome!'
+homeIntroContent = """
+Hey, I'm Max — I fell into coding because I loved making things work (and sometimes break). That love turned into a career where I’ve built apps, led teams, tackled huge projects, and now help shape how a company grows. What keeps me going is simple: working with great people, solving real problems, and building things that actually matter.
+
+I'm still in the process of getting some content on this page. So stay tuned, there might be more soon.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/maximilian-klein-890307198/"
+
+
+[[params.social]]
+name = "github"
+url = "https://github.com/MaximilianKlein"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+#[[params.menu]]
+#name = "showcase"
+#url = "/showcase"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+#[[params.menu]]
+#name = "talks"
+#url = "/talks"
+
+#[[params.menu]]
+#name = "about"
+#url = "/about"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
