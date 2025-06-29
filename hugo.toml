@@ -53,9 +53,9 @@ url = "https://github.com/MaximilianKlein"
 name = "home"
 url = "/"
 
-#[[params.menu]]
-#name = "showcase"
-#url = "/showcase"
+[[params.menu]]
+name = "showcase"
+url = "/showcase"
 
 [[params.menu]]
 name = "posts"
