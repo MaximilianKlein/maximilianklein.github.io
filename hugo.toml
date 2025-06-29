@@ -18,14 +18,14 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Welcome!'
 homeIntroContent = """
-Hey, I'm Max — I fell into coding because I loved making things work (and sometimes break). That love turned into a career where I’ve built apps, led teams, tackled huge projects, and now help shape how a company grows. What keeps me going is simple: working with great people, solving real problems, and building things that actually matter.
+Hey, I'm Max — I fell into coding because I loved making things work (and sometimes break). That love turned into a career where I've built apps, led teams, tackled huge projects, and now help shape how a company grows. What keeps me going is simple: working with great people, solving real problems, and building things that actually matter.
 
 I'm still in the process of getting some content on this page. So stay tuned, there might be more soon.
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+homeCollectionTitle = 'Showcases'
+homeCollection = 'showcase'
 
 # Lists parameters
 paginationSize = 100
