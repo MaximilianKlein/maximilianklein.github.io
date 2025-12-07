@@ -14,7 +14,7 @@ In essence: You get real value out of your interactions by making the other part
 
 ### How to build proper understanding
 
-The most important thing is to activate everyone involved before you build someting. Building some piece of software without understanding it peroperly and then fixing things after you receive feedback is broken by design. I advocate for the following approach, when you are introduced to a new topic:
+The most important thing is to activate everyone involved before you build someting. Building some piece of software without understanding it properly and then fixing things after you receive feedback is broken by design. I advocate for the following approach, when you are introduced to a new topic:
 
 1. Don't mix topics. Take time for each separate topic. Don't accept long monologues for the entire feature.
 2. Avoid pretty prepared presentations. They create distance and discourage conversations. If someone wants to give them as a handout, fine.
