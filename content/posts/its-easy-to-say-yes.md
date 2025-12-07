@@ -1,5 +1,5 @@
 ---
-date: '2025-09-21T21:30:49+02:00'
+date: '2025-12-07T21:21:49+02:00'
 title: 'Why the Best Conversations Aren’t Effortless'
 type: 'posts'
 ---
@@ -29,19 +29,16 @@ In my daily work we often strive to remove friction, become more efficient and m
 
 Speaking of methodology. I would summarize the approach with the three O's:
 
-1. **Own the wording**
-  Phrase everything important in your own way, but do it **with intention**. Don't just echo what the other person said. Boil it down to the essence, add details you think matter, and when discussing topics throw in a metaphor both sides can relate to and which is bold – gives some "attack surface". Friction points are good: if they disagree, they will correct you, and that's where you get the important information.
-  
+1. **Own the wording**  
+  Phrase everything important in your own way, but do it **with intention**. Don't just echo what the other person said. Boil it down to the essence, add details you think matter, and when discussing topics throw in a metaphor both sides can relate to and which is bold – gives some "attack surface". Friction points are good: if they disagree, they will correct you, and that's where you get the important information.  
   *Example: "So this is like a train station: Limited slots for trains, if all are occupied you have to wait?"*
 
-2. **Own the flow**
-  Take time for each step. Do not try to capture a 30 minute description of a system in one go. Sometimes the other side gives you the full story with all the nuances, other times they’ll skip the tricky parts. Your job is to structure it: pause, ask, rephrase, and write it down in a way everyone can see and correct. Make sure that it makes sense to you.
-  
+2. **Own the flow**  
+  Take time for each step. Do not try to capture a 30 minute description of a system in one go. Sometimes the other side gives you the full story with all the nuances, other times they’ll skip the tricky parts. Your job is to structure it: pause, ask, rephrase, and write it down in a way everyone can see and correct. Make sure that it makes sense to you.  
   *Example: "The user starts in this screen, they enter details, validation feedback is immediately displayed in the sidebar, process is not critical timing wise. Anything missing before we move on?"*
 
-3. **Own together**
-  Make the other side invested. Redefine the task as a shared goal and give them a visible role in success. It's easier when you are in person, but the principle is the same: don't let it stay your work and their review.
-
+3. **Own together**  
+  Make the other side invested. Redefine the task as a shared goal and give them a visible role in success. It's easier when you are in person, but the principle is the same: don't let it stay your work and their review.  
   *Example: "Could you check the performance in the old system so we know what to compare against?"*
 
 *Own the wording*, *own the flow*, and *own together*: that's how you build understanding and shared responsibility.
