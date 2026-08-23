@@ -73,3 +73,7 @@ url = "/posts"
 [markup]
 [markup.highlight]
 style = 'algol'
+
+# Allow raw HTML in markdown (needed for embedded interactive content)
+[markup.goldmark.renderer]
+unsafe = true
